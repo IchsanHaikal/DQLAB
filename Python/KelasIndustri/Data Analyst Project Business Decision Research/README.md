@@ -1,0 +1,3 @@
+DQLab sport center is a shop that sells a variety of sports needs such as jackets, clothes, bags and shoes. This store started selling since 2013, so it has had regular customers for a long time, and is still trying to get new customers to this day.
+
+At the beginning of 2019, there was a problem at the store, which is the decreasing number of customers who come back into the store. A customer is no longer called a customer (churn) when he or she is no longer transacting to the shop up to the last 6 months from the last available data update. The main objective of this study is to manage the market research with provided data to solve the mentioned problem.
